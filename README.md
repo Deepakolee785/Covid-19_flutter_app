@@ -3,3 +3,4 @@ Made using Flutter
 
 A new Flutter project.
 
+![alt text](https://github.com/Deepakolee785/Covid-19_flutter_app/blob/master/Figma%20Designs.png)
