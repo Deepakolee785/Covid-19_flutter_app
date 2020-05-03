@@ -1,9 +1,9 @@
 # Covid-19 APP
-Made using Flutter
+Made using Flutter SDK
 
-A new Flutter project.
 
-<a href="https://github.com/Deepakolee785/Covid-19_flutter_app/raw/master/covid19-app.apk">Downlad Apk</a>
+
+<a href="https://github.com/Deepakolee785/Covid-19_flutter_app/raw/master/covid19-app.apk">Downlad android Apk</a>
 
 
 ## Figma UI prototype of APP
